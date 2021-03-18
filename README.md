@@ -11,7 +11,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
-**技术栈 与 开发工具:**
+**🚀 Some Tools I Use**
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://github.com/likaia/likaia/blob/main/typescript.png"></code>
@@ -19,16 +19,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://github.com/likaia/likaia/blob/main/webstorm.png"></code>
 
-**我的开源项目:**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=likaia&repo=chat-system)](https://github.com/likaia/chat-system)
-
+**💡 My developed Tools**
+<ul>
+<li>**CDN刷新插件**</li>
+<li>**react-lazyload**</li>
+</ul>
 ----------
 
-✍️ **我的文章:**
+ **✒️ Recent Posts**
 
 <details style="cursor: pointer;">
-<div style="width: 98%; margin: 0 auto">
+<!-- <div style="width: 98%; margin: 0 auto"> -->
 <ul>
 <li><a href="https://anthony-ghy.github.io/archives/X1EXZ1.html">数学在前端动画中的应用</a></li>
 <li><a href="https://anthony-ghy.github.io/archives/3D1S50T.html">React基础学习笔记1</a></li>
@@ -40,5 +41,5 @@
 <li><a href="https://anthony-ghy.github.io/archives/1EAWQ80.html">代码简洁之道</a></li>
 ......
 </ul>
-</div>
+<!-- </div> -->
 </details>
