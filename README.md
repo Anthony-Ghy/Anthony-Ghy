@@ -6,12 +6,12 @@
 - 🔭 I am a **front-end development engineer at JD User Experience Design Department**.
 - 🌱 I’m currently learning **React and Typescript**.
 - 💬 Ask me about **React,Typescript**.
-- 📫 my email: [913406713@qq.com](Anthony:913406713@qq.com);
-- 📸 **I am a city landscape photographer, like coloring and climbing stairs**
+- 📫 my email: [913406713@qq.com](Anthony:913406713@qq.com).
+- 📸 **I am a city landscape photographer, like coloring and climbing stairs**.
 
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
-**🚀 Some Tools I Use**
+<h4>🚀 Some Tools I Use</h4>
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
@@ -21,16 +21,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://github.com/likaia/likaia/blob/main/webstorm.png"></code>
 
-**💡 My developed Tools**
+<h4>💡 My developed Tools</h4>
 
 <ul>
-<li>**CDN刷新插件**</li>
+<li>CDN刷新插件</li>
   
-<li>**react-lazyload**</li>
+<li>react-lazyload</li>
 
 </ul>
 
- **🔬 Recent Posts**
+ <h4>🔬 Recent Posts</h4>
 
 
 <div style="width: 98%; margin: 0 auto">
