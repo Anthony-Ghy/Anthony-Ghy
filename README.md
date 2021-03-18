@@ -1,10 +1,14 @@
-### Hey，我是神奇的程序员 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h2 align="center">👋 Hello! I'm Anthony_Ghy.</h2>
+<p align="center">
+  <a href="https://anthony-ghy.github.io/">My Blog</a> 
+</p>
 
-<br />
+- 🔭 I am a **front-end development engineer at JD**
+- 🌱 I’m currently learning **React and Typescript**
+- 💬 Ask me about **React,Typescript**
+- 📫 How to reach me: **913406713@qq.com** on email
+- ⚡ Fun fact: Big Fan of the :zap: emoji
 
-你好， 我是 [神奇的程序员](https://juejin.cn/user/3984285870859614) ，出生于2000年，一位将近2年工作经验的前端开发工程师。
-
-你可能很好奇我的经历，正常来讲，这个年龄应该还在读大学，而你就已经有将近2年的工作经验了。此事说来话长，感兴趣的开发者请移步：[一枚19岁程序员的自学之路](https://juejin.cn/post/6844904025746309133)
 
 
   <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
