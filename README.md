@@ -3,12 +3,11 @@
   <a href="https://anthony-ghy.github.io/">My Blog</a> 
 </p>
 
-- 🔭 I am a **front-end development engineer at JD**.
+- 🔭 I am a **front-end development engineer at JD User Experience Design Department**.
 - 🌱 I’m currently learning **React and Typescript**.
 - 💬 Ask me about **React,Typescript**.
 - 📫 my email: [913406713@qq.com](Anthony:913406713@qq.com);
 - 📸 **I am a city landscape photographer, like coloring and climbing stairs**
-- ⚡ Fun fact: Big Fan of the :zap: emoji
 
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
