@@ -6,7 +6,6 @@
 - 🔭 I am a **front-end development engineer at JD**
 - 🌱 I’m currently learning **React and Typescript**
 - 💬 Ask me about **React,Typescript**
-- 📫 How to reach me: **913406713@qq.com** on email
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
 
