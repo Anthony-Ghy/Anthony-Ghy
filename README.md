@@ -24,7 +24,7 @@
 <h4>💡 My developed Tools</h4>
 
 <ul>
-CDN刷新插件</li>
+CDN刷新插件
   
 react-lazyload
 
