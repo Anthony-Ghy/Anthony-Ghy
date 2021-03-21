@@ -24,11 +24,11 @@
 <h4>💡 My developed Tools</h4>
 
 <ul>
-CDN刷新插件
+  <li>CDN刷新插件</li>
   
-react-lazyload
+<li>react-lazyload</li>
 
-Url Parsing
+<li>Url Parsing</li>
 </ul>
 
  <h4>**🔬 Recent Posts**</h4>
