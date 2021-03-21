@@ -31,7 +31,7 @@
 <li>Url Parsing</li>
 </ul>
 
- <h4>**🔬 Recent Posts**</h4>
+ <h4>🔬 Recent Posts</h4>
 
 
 <div style="width: 98%; margin: 0 auto">
